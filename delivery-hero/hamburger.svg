@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12">
+    <defs>
+        <style>
+        </style>
+        <clipPath id="clip-path">
+            <path id="Mask" d="M18 12H0v-2h18zm0-5H0V5h18zm0-5H0V0h18z" class="hamburger-1" transform="translate(3 6)"/>
+        </clipPath>
+    </defs>
+    <g id="Group_3" data-name="Group 3" transform="translate(-3 -6)">
+        <path id="Mask-2" d="M18 12H0v-2h18zm0-5H0V5h18zm0-5H0V0h18z" class="hamburger-1" data-name="Mask" transform="translate(3 6)"/>
+        <g id="Mask_Group_3" class="hamburger-2" data-name="Mask Group 3">
+            <g id="_Icon_Color" data-name="↳ Icon Color">
+                <g id="_Tonal_Palette" data-name="↳ Tonal Palette">
+                    <g id="_Tonal_Palette-2" data-name="↳ Tonal Palette">
+                        <path id="Rectangle_13" d="M0 0h24v24H0z" class="hamburger-3" data-name="Rectangle 13"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

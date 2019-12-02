@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="faq_icon" width="36" height="36" data-name="faq icon" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-2,.cls-3{stroke:#353942;stroke-miterlimit:10}.cls-2{fill:#353942}.cls-3{stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <path id="Rectangle_3" d="M0 0h36v36H0z" class="cls-1" data-name="Rectangle 3"/>
+    <g id="Oval_2" class="cls-2" data-name="Oval 2" transform="translate(17 21)">
+        <circle cx="1" cy="1" r="1" class="cls-4"/>
+        <circle cx="1" cy="1" r=".5" class="cls-1"/>
+    </g>
+    <path id="Rectangle" d="M0 8a8 8 0 0 1 8-8h12a8 8 0 0 1 8 8v6.4a8 8 0 0 1-8 8h-7.867L5.6 28.933V22.4A5.982 5.982 0 0 1 0 16.8z" class="cls-3" transform="translate(4 4.033)"/>
+    <path id="Oval" d="M4 10V7.692a3.925 3.925 0 0 0 4-3.846A3.925 3.925 0 0 0 4 0a3.925 3.925 0 0 0-4 3.846" class="cls-3" transform="translate(14 9)"/>
+</svg>

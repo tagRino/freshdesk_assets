@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .news-1,.news-2,.news-3{fill:none}.news-2,.news-3{stroke:#353942;stroke-miterlimit:10;stroke-width:2px}.news-3{stroke-linecap:round;stroke-linejoin:round}.news-4{stroke:none}
+        </style>
+    </defs>
+    <g id="news_icon" data-name="news icon" transform="translate(0 -3)">
+        <g id="faq_icon" data-name="faq icon" transform="translate(0 3)">
+            <path id="Rectangle_3" d="M0 0h36v36H0z" class="news-1" data-name="Rectangle 3"/>
+        </g>
+        <g id="Rectangle_4" class="news-2" data-name="Rectangle 4" transform="translate(5 11)">
+            <rect width="15" height="10" class="news-4" rx="2"/>
+            <rect width="13" height="8" x="1" y="1" class="news-1" rx="1"/>
+        </g>
+        <path id="Path_2" d="M0 1h24" class="news-3" data-name="Path 2" transform="translate(6 23)"/>
+        <path id="Path_2_Copy_4" d="M0 1h7" class="news-3" data-name="Path 2 Copy 4" transform="translate(23 19)"/>
+        <path id="Path_2_Copy_5" d="M0 1h7" class="news-3" data-name="Path 2 Copy 5" transform="translate(23 15)"/>
+        <path id="Path_2_Copy_6" d="M0 1h7" class="news-3" data-name="Path 2 Copy 6" transform="translate(23 11)"/>
+        <path id="Path_2_Copy" d="M0 1h24" class="news-3" data-name="Path 2 Copy" transform="translate(6 27)"/>
+        <path id="Path_2_Copy_2" d="M0 1h24" class="news-3" data-name="Path 2 Copy 2" transform="translate(6 31)"/>
+    </g>
+</svg>

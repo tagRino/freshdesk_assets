@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.49" height="17.491" viewBox="0 0 17.49 17.491">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Mask" d="M6.5-17.491a6.507 6.507 0 0 0-6.5 6.5 6.507 6.507 0 0 0 6.5 6.5 6.5 6.5 0 0 0 4.226-1.566l.274.274v.792L16 0l1.49-1.491-4.988-5h-.794l-.276-.275A6.494 6.494 0 0 0 13-10.991a6.507 6.507 0 0 0-6.5-6.5zm0 11a4.5 4.5 0 0 1-4.5-4.5 4.505 4.505 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5 4.5 4.5 0 0 1-4.5 4.5z" class="cls-1" transform="translate(3 20.491)"/>
+        </clipPath>
+    </defs>
+    <g id="Group_2" data-name="Group 2" transform="translate(-3 -3)">
+        <path id="Mask-2" d="M6.5-17.491a6.507 6.507 0 0 0-6.5 6.5 6.507 6.507 0 0 0 6.5 6.5 6.5 6.5 0 0 0 4.226-1.566l.274.274v.792L16 0l1.49-1.491-4.988-5h-.794l-.276-.275A6.494 6.494 0 0 0 13-10.991a6.507 6.507 0 0 0-6.5-6.5zm0 11a4.5 4.5 0 0 1-4.5-4.5 4.505 4.505 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5 4.5 4.5 0 0 1-4.5 4.5z" class="cls-1" data-name="Mask" transform="translate(3 20.491)"/>
+        <g id="Mask_Group_2" class="cls-2" data-name="Mask Group 2">
+            <g id="_Icon_Color" data-name="↳ Icon Color">
+                <g id="_Tonal_Palette" data-name="↳ Tonal Palette">
+                    <g id="_Tonal_Palette-2" data-name="↳ Tonal Palette">
+                        <path id="Rectangle_13" d="M0 0h24v24H0z" class="cls-3" data-name="Rectangle 13"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

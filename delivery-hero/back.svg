@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.41" height="12" viewBox="0 0 7.41 12">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path id="icon_navigation_chevron_left_24px" d="M7.41 1.41L6 0 0 6l6 6 1.41-1.41L2.83 6z" class="cls-1" data-name="icon/navigation/chevron_left_24px" transform="translate(8 6)"/>
+        </clipPath>
+    </defs>
+    <g id="Group_1" data-name="Group 1" transform="translate(-8 -6)">
+        <path id="icon_navigation_chevron_left_24px-2" d="M7.41 1.41L6 0 0 6l6 6 1.41-1.41L2.83 6z" class="cls-1" data-name="icon/navigation/chevron_left_24px" transform="translate(8 6)"/>
+        <g id="Mask_Group_1" class="cls-2" data-name="Mask Group 1">
+            <g id="_Icon_Color" data-name="↳ Icon Color">
+                <g id="_Tonal_Palette" data-name="↳ Tonal Palette">
+                    <g id="_Tonal_Palette-2" data-name="↳ Tonal Palette">
+                        <path id="Rectangle_13" d="M0 0h24v24H0z" class="cls-3" data-name="Rectangle 13"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

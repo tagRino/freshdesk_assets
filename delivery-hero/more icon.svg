@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="more_icon" width="36" height="36" data-name="more icon" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#353942}
+        </style>
+    </defs>
+    <g id="faq_icon" data-name="faq icon">
+        <path id="Rectangle_3" d="M0 0h36v36H0z" class="cls-1" data-name="Rectangle 3"/>
+    </g>
+    <circle id="Oval_3" cx="2" cy="2" r="2" class="cls-2" data-name="Oval 3" transform="translate(16 16)"/>
+    <circle id="Oval_3_Copy_2" cx="2" cy="2" r="2" class="cls-2" data-name="Oval 3 Copy 2" transform="translate(6 16)"/>
+    <circle id="Oval_3_Copy" cx="2" cy="2" r="2" class="cls-2" data-name="Oval 3 Copy" transform="translate(26 16)"/>
+</svg>

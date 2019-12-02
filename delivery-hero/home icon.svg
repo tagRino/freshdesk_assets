@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="home_icon" width="36" height="36" data-name="home icon" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#353942}
+        </style>
+    </defs>
+    <g id="faq_icon" data-name="faq icon">
+        <path id="Rectangle_3" d="M0 0h36v36H0z" class="cls-1" data-name="Rectangle 3"/>
+    </g>
+    <g id="Combined_Shape" data-name="Combined Shape" transform="translate(4.622 2.203)">
+        <path id="Path_1" d="M11.222 28.8H7.377a4 4 0 0 1-4-4v-10H2a2 2 0 0 1-1.377-3.453L12 .549a2 2 0 0 1 2.754 0l11.377 10.8a2 2 0 0 1-1.376 3.451h-1.377v10a4 4 0 0 1-4 4h-3.845v-4.644a2.156 2.156 0 1 0-4.311 0z" class="cls-1" data-name="Path 1"/>
+        <path id="Path_2" d="M9.222 26.8v-2.644a4.156 4.156 0 1 1 8.311 0V26.8h1.845a2 2 0 0 0 2-2v-12h3.377L13.377 2 2 12.8h3.378v12a2 2 0 0 0 2 2h1.844m2 2H7.377a4 4 0 0 1-4-4v-10H2a2 2 0 0 1-1.377-3.453L12 .549a2 2 0 0 1 2.754 0l11.377 10.8a2 2 0 0 1-1.376 3.451h-1.377v10a4 4 0 0 1-4 4h-3.845v-4.644a2.156 2.156 0 1 0-4.311 0V28.8z" class="cls-2" data-name="Path 2"/>
+    </g>
+</svg>
