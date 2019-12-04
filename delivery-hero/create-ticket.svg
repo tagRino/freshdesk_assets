@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Mask" d="M6 0v6H0v2h6v6h2V8h6V6H8V0z" class="cls-1" transform="translate(5 5)"/>
+        </clipPath>
+    </defs>
+    <g id="Group_5" data-name="Group 5" transform="translate(-5 -5)">
+        <path id="Mask-2" d="M6 0v6H0v2h6v6h2V8h6V6H8V0z" class="cls-1" data-name="Mask" transform="translate(5 5)"/>
+        <g id="Mask_Group_5" class="cls-2" data-name="Mask Group 5">
+            <g id="_Icon_Color" data-name="↳ Icon Color">
+                <g id="_Tonal_Palette" data-name="↳ Tonal Palette">
+                    <g id="_Tonal_Palette-2" data-name="↳ Tonal Palette">
+                        <path id="Rectangle_13" d="M0 0h24v24H0z" class="cls-3" data-name="Rectangle 13"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
