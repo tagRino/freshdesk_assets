@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Page-1" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix___008---Folder-Sync" data-name="008---Folder-Sync">
+        <path id="prefix__Shape" d="M72 17.627v-2.8a6.711 6.711 0 0 0-6.667-6.738H42.667V6.738A6.711 6.711 0 0 0 36 0H6.667A6.711 6.711 0 0 0 0 6.738v32.344a1.341 1.341 0 0 0 1.333 1.348 1.341 1.341 0 0 0 1.333-1.348V6.738a4.022 4.022 0 0 1 4-4.043H36a4.022 4.022 0 0 1 4 4.043v2.7a1.341 1.341 0 0 0 1.333 1.348h24a4.022 4.022 0 0 1 4 4.043v2.7H32a1.348 1.348 0 0 0 0 2.7h38.667a6.711 6.711 0 0 1 6.667 6.738v39.067a6.711 6.711 0 0 1-6.667 6.738h-28a1.348 1.348 0 0 0 0 2.7h28A9.4 9.4 0 0 0 80 66.034V26.953a9.41 9.41 0 0 0-8-9.326z" class="prefix__cls-1"/>
+        <path id="prefix__Shape-2" d="M19.667 15.267a1.133 1.133 0 1 0 0-2.267h-4.534a1.133 1.133 0 0 0 0 2.267z" class="prefix__cls-1" data-name="Shape" transform="translate(4.978 4.423)"/>
+        <path id="prefix__Shape-3" d="M0 43.134a3.4 3.4 0 0 0 6.8 0A11.32 11.32 0 0 1 23.195 33a3.4 3.4 0 0 0 .2 6.7l7.852 1.133a3.4 3.4 0 0 0 3.853-2.88l1.135-7.853a3.4 3.4 0 0 0-6.71-1.08A18.133 18.133 0 0 0 0 43.134zm18.133-15.867a15.958 15.958 0 0 1 11.388 4.817 1.133 1.133 0 0 0 1.936-.628l.288-2a1.134 1.134 0 0 1 2.244.323l-1.133 7.852a1.133 1.133 0 0 1-1.285.961l-7.851-1.136a1.134 1.134 0 1 1 .325-2.244l2.927.423a1.133 1.133 0 0 0 .979-1.905 13.6 13.6 0 0 0-23.418 9.4 1.133 1.133 0 1 1-2.267 0 15.884 15.884 0 0 1 15.867-15.863z" class="prefix__cls-1" data-name="Shape" transform="translate(0 10.65)"/>
+        <path id="prefix__Shape-4" d="M15.753 51.686a3.4 3.4 0 0 0-2.879-3.853L5.023 46.7a3.4 3.4 0 0 0-3.853 2.879L.036 57.431a3.4 3.4 0 0 0 6.71 1.08A18.133 18.133 0 0 0 36.267 44.4a3.4 3.4 0 1 0-6.8 0 11.32 11.32 0 0 1-16.395 10.132 3.4 3.4 0 0 0 2.681-2.846zm-2.686.423a1.117 1.117 0 0 1-.841.213L9.293 51.9a1.133 1.133 0 0 0-.978 1.907A13.6 13.6 0 0 0 31.733 44.4a1.133 1.133 0 1 1 2.267 0A15.867 15.867 0 0 1 6.746 55.45a1.137 1.137 0 0 0-1.936.632l-.288 2a1.134 1.134 0 0 1-2.244-.323l1.133-7.852a1.133 1.133 0 0 1 1.289-.962l7.851 1.133a1.133 1.133 0 0 1 .516 2.031z" class="prefix__cls-1" data-name="Shape" transform="translate(0 17.468)"/>
+        <path id="prefix__Shape-5" d="M43.667 31h-4.534a1.133 1.133 0 0 0 0 2.267h4.533a1.133 1.133 0 0 0 0-2.267z" class="prefix__cls-1" data-name="Shape" transform="translate(13.511 10.548)"/>
+        <path id="prefix__Shape-6" d="M52.6 38H40.133a1.133 1.133 0 0 0 0 2.267H52.6a1.133 1.133 0 1 0 0-2.267z" class="prefix__cls-1" data-name="Shape" transform="translate(17.2 12.93)"/>
+        <path id="prefix__Shape-7" d="M53.133 47.267H55.4a1.133 1.133 0 1 0 0-2.267h-2.267a1.133 1.133 0 0 0 0 2.267z" class="prefix__cls-1" data-name="Shape" transform="translate(18.933 15.311)"/>
+        <path id="prefix__Shape-8" d="M40.133 45a1.133 1.133 0 0 0 0 2.267h10.2a1.133 1.133 0 1 0 0-2.267z" class="prefix__cls-1" data-name="Shape" transform="translate(14.751 15.311)"/>
+    </g>
+</svg>

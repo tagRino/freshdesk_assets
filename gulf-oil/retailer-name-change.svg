@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <style>
+            .prefix__cls-1{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__text" transform="translate(0 -29.235)">
+        <path id="prefix__Path_90" d="M32.2 40.664h10.734v5.714h10.734V29.235H0v17.143h10.734v-5.714h10.733v57.142H10.734v11.429h32.2V97.806H32.2z" class="prefix__cls-1" data-name="Path 90"/>
+        <path id="prefix__Path_91" d="M233.882 175.411v16.1h10.734v-5.367h5.367v26.834h-5.367v10.734h21.467v-10.734h-5.367v-26.833h5.367v5.367h10.734v-16.1h-42.935z" class="prefix__cls-1" data-name="Path 91" transform="translate(-196.816 -114.477)"/>
+    </g>
+</svg>
