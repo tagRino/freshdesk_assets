@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_14" d="M0 0H150V150H0z" data-name="Rectangle 14" transform="translate(993 430)" style="fill:#fff"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_8" data-name="Mask Group 8" transform="translate(-993 -430)">
+        <g id="prefix__loss" transform="translate(998 419)">
+            <g id="prefix__Group_12" data-name="Group 12" transform="translate(0 16)">
+                <g id="prefix__Group_11" data-name="Group 11">
+                    <path id="prefix__Path_32" d="M131.25 44h-8.75v-9.333c0-5.155-3.918-9.333-8.75-9.333H70v-4.667A4.528 4.528 0 0 0 65.625 16H4.375A4.528 4.528 0 0 0 0 20.667v126C0 151.821 3.918 156 8.75 156h122.5c4.832 0 8.75-4.179 8.75-9.333V53.333c0-5.154-3.918-9.333-8.75-9.333zM70 34.667h43.75V44H70zm61.25 112H8.75V25.333h52.5V44H21.875v9.333H131.25z" class="prefix__cls-3" data-name="Path 32" transform="translate(0 -16)"/>
+                    <path id="prefix__Path_33" d="M116.64 260.148h23.2v-8.094h-12.018l18.559-16.187h25.936a5.011 5.011 0 0 0 3.294-1.174l18.559-16.187-6.542-5.706-17.214 14.973h-25.936a5.011 5.011 0 0 0-3.294 1.174l-19.9 17.4v-10.48H112V256.1c0 2.237 2.077 4.048 4.64 4.048z" class="prefix__cls-3" data-name="Path 33" transform="translate(-83.672 -150.526)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

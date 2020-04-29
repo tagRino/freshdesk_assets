@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset=".82" stop-color="#8d68a8"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_17" d="M0 0H150V150H0z" data-name="Rectangle 17" transform="translate(718 734)" style="fill:#fff"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_11" data-name="Mask Group 11" transform="translate(-718 -734)">
+        <g id="prefix__update" transform="translate(723 738)">
+            <g id="prefix__Group_15" data-name="Group 15" transform="translate(0 1)">
+                <path id="prefix__Path_42" d="M122.5 1h-105C7.852 1 0 9.565 0 20.091v101.818C0 132.435 7.852 141 17.5 141h105c9.648 0 17.5-8.565 17.5-19.091V20.091C140 9.565 132.148 1 122.5 1zm0 127.273h-105a6.122 6.122 0 0 1-5.833-6.364V32.818h116.666v89.091a6.122 6.122 0 0 1-5.833 6.364z" class="prefix__cls-3" data-name="Path 42" transform="translate(0 -1)"/>
+            </g>
+            <g id="prefix__Group_16" data-name="Group 16" transform="translate(41.183 92.113)">
+                <path id="prefix__Path_43" d="M60.146 15.749a5.764 5.764 0 0 0-7.806 2.321 18.583 18.583 0 0 1-26.308 7.045l2.742-2.742A4.318 4.318 0 0 0 25.721 15H11.32A4.322 4.322 0 0 0 7 19.32v14.4a4.318 4.318 0 0 0 7.373 3.053l3.3-3.3a30.312 30.312 0 0 0 44.794-9.913 5.762 5.762 0 0 0-2.321-7.811z" class="prefix__cls-3" data-name="Path 43" transform="translate(-7 -15)"/>
+            </g>
+            <g id="prefix__Group_17" data-name="Group 17" transform="translate(42.652 51.438)">
+                <path id="prefix__Path_44" d="M60.748 10.518a4.313 4.313 0 0 0-4.706.939l-3.3 3.3a30.284 30.284 0 0 0-44.8 9.983 5.761 5.761 0 0 0 2.344 7.8 5.683 5.683 0 0 0 2.725.691 5.773 5.773 0 0 0 5.081-3.03 18.546 18.546 0 0 1 26.3-7.085l-2.752 2.742a4.318 4.318 0 0 0 3.053 7.373h14.4a4.322 4.322 0 0 0 4.32-4.32V14.51a4.325 4.325 0 0 0-2.667-3.992z" class="prefix__cls-3" data-name="Path 44" transform="translate(-7.25 -8.75)"/>
+            </g>
+        </g>
+    </g>
+</svg>

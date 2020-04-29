@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_15" d="M0 0H150V150H0z" data-name="Rectangle 15" transform="translate(185 737)" style="fill:#fff"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_9" data-name="Mask Group 9" transform="translate(-185 -737)">
+        <g id="prefix__back-up" transform="translate(190 742)">
+            <g id="prefix__Group_14" data-name="Group 14">
+                <g id="prefix__Group_13" data-name="Group 13">
+                    <path id="prefix__Path_34" d="M105 70a3.185 3.185 0 0 0-2.246 5.435l6.36 6.36a3.183 3.183 0 0 0 2.25.932 3.08 3.08 0 0 0 .444-.031 3.189 3.189 0 0 0 2.34-1.61l1.458-2.634a28.608 28.608 0 1 1-22.056.329A3.182 3.182 0 0 0 91 72.952a34.966 34.966 0 0 0-9.5 6.227 6.257 6.257 0 0 0-5.138-2.816 6.332 6.332 0 0 0-2.2 12.282 34.772 34.772 0 0 0-2.8 6.809H12.727a6.372 6.372 0 0 1-6.364-6.364V76.364A6.372 6.372 0 0 1 12.727 70h89.091a12.74 12.74 0 0 0 12.727-12.727V44.545a12.606 12.606 0 0 0-2.982-8.088l.049-.041L85.8 5.677A15.882 15.882 0 0 0 73.614 0H40.932a15.883 15.883 0 0 0-12.184 5.677L2.933 36.417l.049.041A12.607 12.607 0 0 0 0 44.545v12.728a12.647 12.647 0 0 0 4.4 9.545A12.647 12.647 0 0 0 0 76.364v12.727a12.74 12.74 0 0 0 12.727 12.727h57.508c-.1 1.057-.235 2.106-.235 3.182a35 35 0 1 0 35-35zM33.62 9.772a9.53 9.53 0 0 1 7.311-3.409h32.683a9.53 9.53 0 0 1 7.311 3.409l18.514 22.046H15.107zM6.364 44.545a6.372 6.372 0 0 1 6.364-6.364h89.091a6.372 6.372 0 0 1 6.364 6.364v12.728a6.372 6.372 0 0 1-6.364 6.364H12.727a6.372 6.372 0 0 1-6.364-6.364V44.545z" class="prefix__cls-3" data-name="Path 34"/>
+                    <path id="prefix__Path_35" d="M344.754 277.333a3.419 3.419 0 0 0-3.421 3.421v20.523a3.419 3.419 0 0 0 1 2.418l10.267 10.261a3.42 3.42 0 0 0 4.837-4.837l-9.259-9.259v-19.106a3.419 3.419 0 0 0-3.424-3.421z" class="prefix__cls-3" data-name="Path 35" transform="translate(-240.494 -196.674)"/>
+                    <path id="prefix__Path_36" d="M46.087 163.015a3.419 3.419 0 0 0 3.421-3.421v-6.841a3.421 3.421 0 0 0-6.841 0v6.841a3.419 3.419 0 0 0 3.42 3.421z" class="prefix__cls-3" data-name="Path 36" transform="translate(-28.984 -105.122)"/>
+                    <path id="prefix__Path_37" d="M88.754 163.015a3.419 3.419 0 0 0 3.421-3.421v-6.841a3.421 3.421 0 0 0-6.841 0v6.841a3.419 3.419 0 0 0 3.42 3.421z" class="prefix__cls-3" data-name="Path 37" transform="translate(-59.969 -105.122)"/>
+                    <path id="prefix__Path_38" d="M131.421 163.015a3.419 3.419 0 0 0 3.421-3.421v-6.841a3.421 3.421 0 0 0-6.841 0v6.841a3.419 3.419 0 0 0 3.42 3.421z" class="prefix__cls-3" data-name="Path 38" transform="translate(-89.955 -105.122)"/>
+                    <circle id="prefix__Ellipse_2" cx="6.841" cy="6.841" r="6.841" class="prefix__cls-3" data-name="Ellipse 2" transform="translate(88.423 44.212)"/>
+                    <circle id="prefix__Ellipse_3" cx="6.841" cy="6.841" r="6.841" class="prefix__cls-3" data-name="Ellipse 3" transform="translate(69.475 44.212)"/>
+                    <path id="prefix__Path_39" d="M42.667 259.421v6.841a3.42 3.42 0 1 0 6.841 0v-6.841a3.42 3.42 0 1 0-6.841 0z" class="prefix__cls-3" data-name="Path 39" transform="translate(-28.985 -180.209)"/>
+                    <path id="prefix__Path_40" d="M85.333 259.421v6.841a3.421 3.421 0 0 0 6.841 0v-6.841a3.421 3.421 0 0 0-6.841 0z" class="prefix__cls-3" data-name="Path 40" transform="translate(-59.969 -180.209)"/>
+                    <path id="prefix__Path_41" d="M128 259.421v6.841a3.421 3.421 0 0 0 6.841 0v-6.841a3.421 3.421 0 0 0-6.841 0z" class="prefix__cls-3" data-name="Path 41" transform="translate(-89.955 -180.209)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

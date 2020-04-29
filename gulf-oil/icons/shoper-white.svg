@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset=".82" stop-color="#8d68a8"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_45" d="M0 0H150V150H0z" data-name="Rectangle 45" transform="translate(191 86)" style="fill:#fff;stroke:#707070"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:#ffffff;}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_1" data-name="Mask Group 1" transform="translate(-191 -86)">
+        <g id="prefix__shopping-bag" transform="translate(221.999 91)">
+            <g id="prefix__Group_76" data-name="Group 76" transform="translate(.001)">
+                <path id="prefix__Path_131" d="M81.45 50.968a4.693 4.693 0 0 0-4.653-4.3H69.62v-21a25.667 25.667 0 1 0-51.334 0v21h-7.177a4.691 4.691 0 0 0-4.653 4.3L.023 132.45a7 7 0 0 0 6.428 7.529c.183.014.366.021.551.021H80.9a7 7 0 0 0 7-7q0-.276-.022-.551zm-58.5-25.3a21 21 0 0 1 42 0v21h-42zm59.666 108.917a2.31 2.31 0 0 1-1.713.749H7a2.332 2.332 0 0 1-2.34-2.326c0-.063 0-.127.006-.191l6.441-81.482h7.177v5.1a7 7 0 1 0 4.667 0v-5.1h42v5.1a7 7 0 1 0 4.667 0v-5.1H76.8l6.433 81.482a2.308 2.308 0 0 1-.613 1.769zM22.952 63a2.333 2.333 0 1 1-4.667 0 2.266 2.266 0 0 1 .36-1.166 2.254 2.254 0 0 0 3.948 0A2.265 2.265 0 0 1 22.952 63zm46.667 0a2.333 2.333 0 1 1-4.667 0 2.265 2.265 0 0 1 .359-1.166 2.253 2.253 0 0 0 3.948 0 2.266 2.266 0 0 1 .36 1.166zm0 0" class="prefix__cls-3" data-name="Path 131" transform="translate(-.001)"/>
+                <path id="prefix__Path_132" d="M128.608 287.115h14.049a3.512 3.512 0 0 1 3.513 3.513 3.512 3.512 0 0 0 7.024 0 10.537 10.537 0 0 0-10.538-10.538h-3.511v-3.511a3.512 3.512 0 1 0-7.024 0v3.511h-3.513a10.538 10.538 0 0 0-10.538 10.538v7.024a10.538 10.538 0 0 0 10.538 10.536h14.049a3.513 3.513 0 0 1 3.513 3.513v7.024a3.512 3.512 0 0 1-3.513 3.513h-14.049a3.514 3.514 0 0 1-3.513-3.513 3.512 3.512 0 0 0-7.024 0 10.538 10.538 0 0 0 10.538 10.537h3.513v3.511a3.512 3.512 0 1 0 7.024 0v-3.511h3.511a10.537 10.537 0 0 0 10.537-10.537V311.7a10.537 10.537 0 0 0-10.537-10.538h-14.049a3.513 3.513 0 0 1-3.513-3.511v-7.024a3.514 3.514 0 0 1 3.513-3.512zm0 0" class="prefix__cls-3" data-name="Path 132" transform="translate(-91.681 -214.568)"/>
+            </g>
+        </g>
+    </g>
+</svg>

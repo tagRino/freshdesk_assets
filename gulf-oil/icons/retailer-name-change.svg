@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_26" d="M0 0H150V150H0z" data-name="Rectangle 26" transform="translate(724 1330)" style="fill:#fff"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_19" data-name="Mask Group 19" transform="translate(-724 -1330)">
+        <g id="prefix__text" transform="translate(729 1305.765)">
+            <path id="prefix__Path_90" d="M56.351 49.235h18.784v10h18.783v-30H0v30h18.784v-10h18.783v100H18.784v20h56.341v-20H56.351z" class="prefix__cls-3" data-name="Path 90"/>
+            <path id="prefix__Path_91" d="M233.882 175.411v28.175h18.784V194.2h9.392v46.959h-9.392v18.784h37.567v-18.789h-9.392v-46.959h9.392v9.392h18.784v-28.176h-75.135z" class="prefix__cls-3" data-name="Path 91" transform="translate(-169.017 -90.703)"/>
+        </g>
+    </g>
+</svg>

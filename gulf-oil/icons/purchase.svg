@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".293" x2=".829" y1=".263" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#423f90"/>
+            <stop offset="1" stop-color="#9d71ad"/>
+        </linearGradient>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_11" d="M0 0H150V150H0z" data-name="Rectangle 11" transform="translate(184 430)" style="fill:#fff"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3{fill:url(#prefix__linear-gradient)}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_5" data-name="Mask Group 5" transform="translate(-184 -430)">
+        <path id="prefix__smart-cart" d="M135.332 26.564a13.606 13.606 0 0 0-10.417-4.6H25.266l-1-7.52C23.182 6.346 17.543 0 11.424 0H4.1a4.1 4.1 0 1 0 0 8.2h7.322c1.316 0 4.1 2.782 4.708 7.327l11.741 88.058a16.585 16.585 0 0 0 5.615 10.233 16.95 16.95 0 0 0 7.872 3.917 15.087 15.087 0 1 0 26.68.3h21.495a15.085 15.085 0 1 0 26.833 0h10.746a4.1 4.1 0 0 0 0-8.2H44.373A8.8 8.8 0 0 1 36 102.5l-.858-6.435h80.983a17.027 17.027 0 0 0 16.5-14.446l5.887-44.119a13.607 13.607 0 0 0-3.18-10.933zm-73.827 98.351a6.882 6.882 0 1 1-6.882-6.881 6.889 6.889 0 0 1 6.882 6.881zm48.326 0a6.882 6.882 0 1 1-6.882-6.881 6.889 6.889 0 0 1 6.882 6.881zm19.329-92.947a5.513 5.513 0 0 1 1.221 4.444l-2.466 18.5h-27.909l1.649-24.746h23.259a5.517 5.517 0 0 1 4.245 1.8zm-58.248 55.9l-1.65-24.746h21.976l-1.65 24.746zm-2.2-32.949l-1.646-24.75h26.368l-1.649 24.746zm-9.87-24.746l1.649 24.746H29.658l-3.3-24.746zm-28.09 32.945h30.289l1.65 24.746H34.052zm85.377 24.746h-18.32l1.65-24.746h27.361l-2.32 17.419a8.8 8.8 0 0 1-8.37 7.327zm0 0" transform="translate(190 435)" class="prefix__cls-3" />
+    </g>
+</svg>
